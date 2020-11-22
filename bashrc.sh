@@ -4,3 +4,6 @@ export HDFS_DATANODE_USER="root"
 export HDFS_SECONDARYNAMENODE_USER="root"
 export YARN_RESOURCEMANAGER_USER="root"
 export YARN_NODEMANAGER_USER="root"
+export PIG_HOME = /home/Hadoop/Pig
+export PATH  = $PATH:/content/pig-0.16.0
+export PIG_CLASSPATH = /usr/local/hadoop/etc/hadoop
